@@ -36,7 +36,6 @@ I Reccomend using the Slackmoji extension to batch upload these to slack: [Slack
 <img src="/totoro-phone.gif" alt=":totoro-phone:" class="inline" />
 <img src="/totoro-pipe.gif" alt=":totoro-pipe:" class="inline" />
 <img src="/totoro-running.gif" alt=":totoro-running:" class="inline" />
-<img src="/totoro-running-2.gif" alt=":totoro-running-2:" class="inline" />
 <img src="/totoro-sleeping.gif" alt=":totoro-sleeping:" class="inline" />
 <img src="/totoro-soccer.gif" alt=":totoro-soccer:" class="inline" />
 <img src="/totoro-space-mountain.gif" alt=":totoro-space-mountain:" class="inline" />
