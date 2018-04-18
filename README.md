@@ -3,7 +3,7 @@ Totoro GIFs for Slack
 
 I claim no credit for the art, the original works can be found at the illustrator's blog: [CL Terry](http://clterryart.tumblr.com/tagged/totoro).
 
-I Reccomend using the Slackmoji extension to batch upload these to slack: [Slackmoji for Chrome & Firefox](https://slackmoji.com)
+I Reccomend using the Neutral Face Emoji Tools Chrome extension to batch upload these to slack: [Neutral Face Emoji Tools](https://github.com/Fauntleroy/neutral-face-emoji-tools)
 
 <img src="./totoro-applause.gif" alt=":totoro-applause:" class="inline" /><img src="./totoro-birthday.gif" alt=":totoro-birthday:" class="inline" />
 <img src="./totoro-business-walk.gif" alt=":totoro-business-walk:" class="inline" />
